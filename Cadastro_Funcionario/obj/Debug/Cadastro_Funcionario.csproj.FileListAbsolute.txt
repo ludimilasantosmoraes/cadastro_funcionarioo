@@ -1,0 +1,11 @@
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\bin\Debug\Cadastro_Funcionario.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\bin\Debug\Cadastro_Funcionario.exe
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\bin\Debug\Cadastro_Funcionario.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.exe
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\Cadastro_Funcionario\Cadastro_Funcionario\obj\Debug\Cadastro_Funcionario.pdb
