@@ -17,7 +17,7 @@ public class Funcionario
     public string RG { get; set; }
 
     public double Salario { get; set; }
-    public DateTime DataNascimento { get; set; }
+    public DateTime? DataNascimento { get; set; }
 
     public Funcionario(string nome, string funcao, string estado, string cidade, string endereco, string telefone, string email, string estadoCivil, string cpf, string rg, double salario, DateTime dataNascimento)
     {
